@@ -111,10 +111,9 @@ Useful for:
 - Coaching analytics
 
 ---
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![ML](https://img.shields.io/badge/ML-ScikitLearn-green)
+![Dashboard](https://img.shields.io/badge/UI-Streamlit-red)
 
-## Future Enhancements
 
-- Live Kafka streaming
-- Real-time win probability
-- LSTM models
-- GenAI commentary
+
