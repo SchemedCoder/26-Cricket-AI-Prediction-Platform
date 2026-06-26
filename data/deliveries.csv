@@ -1,0 +1,13 @@
+match_id,inning,over,ball,batting_team,bowler,batsman,runs,wicket
+M001,1,1,1,MI,Deepak Chahar,Rohit Sharma,1,0
+M001,1,1,2,MI,Deepak Chahar,Rohit Sharma,4,0
+M001,1,1,3,MI,Deepak Chahar,Rohit Sharma,0,0
+M001,1,1,4,MI,Deepak Chahar,Rohit Sharma,6,0
+M001,1,1,5,MI,Deepak Chahar,Rohit Sharma,2,0
+M001,1,1,6,MI,Deepak Chahar,Rohit Sharma,0,1
+M002,1,1,1,RCB,Mitchell Starc,Virat Kohli,4,0
+M002,1,1,2,RCB,Mitchell Starc,Virat Kohli,6,0
+M002,1,1,3,RCB,Mitchell Starc,Virat Kohli,1,0
+M002,1,1,4,RCB,Mitchell Starc,Virat Kohli,2,0
+M002,1,1,5,RCB,Mitchell Starc,Virat Kohli,4,0
+M002,1,1,6,RCB,Mitchell Starc,Virat Kohli,0,0
