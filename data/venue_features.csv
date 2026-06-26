@@ -1,0 +1,11 @@
+Formula
+===========
+pitch_type = PACE if pacers_help > spinners_help else SPIN
+high_scoring_ground = avg_first_innings_score >= 180
+
+=============
+venue_id,venue_name,city,avg_first_innings_score,pacers_help,spinners_help,pitch_type,high_scoring_ground
+V001,Wankhede Stadium,Mumbai,186,8,4,PACE,1
+V002,Eden Gardens,Kolkata,192,7,6,PACE,1
+V003,Chepauk Stadium,Chennai,171,4,9,SPIN,0
+V004,Arun Jaitley Stadium,Delhi,178,6,5,PACE,0
